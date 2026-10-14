@@ -1,4 +1,5 @@
 # Customer Churn Prediction using Machine Learning
+**Live demo:** <https://customer-churn-prediction-nphytgjal47jyxof5toecd.streamlit.app/>
 
 Predicts which telecom customers are likely to leave, explains why, and turns the predictions into actions a retention team can use.
 
